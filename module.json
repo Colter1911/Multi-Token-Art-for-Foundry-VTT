@@ -2,7 +2,7 @@
   "id": "multi-tokenart",
   "title": "Multi Token Art",
   "description": "Manage multiple token and portrait images with auto-activation, random mode, and Dynamic Ring integration.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "readme": "https://github.com/Colter1911/Multi-Token-Art-for-Foundry-VTT/blob/main/README.md",
   "license": "https://raw.githubusercontent.com/Colter1911/Multi-Token-Art-for-Foundry-VTT/refs/heads/main/LICENSE.md",
   "compatibility": {
@@ -39,8 +39,9 @@
   "socket": true,
   "url": "https://boosty.to/frieddend/posts/66847e79-99e7-4cd7-8668-907ada56e8ed",
   "manifest": "https://raw.githubusercontent.com/Colter1911/Multi-Token-Art-for-Foundry-VTT/refs/heads/main/module.json",
-  "download": "https://drive.google.com/uc?export=download&id=1RAc83EPQGLItVeIlun4HZy9NiiIgAfOW"
+  "download": "https://drive.google.com/uc?export=download&id=1ti1hTwty8SIRGReZ0ljodbDHHDGUkWqc"
 
 }
+
 
 
