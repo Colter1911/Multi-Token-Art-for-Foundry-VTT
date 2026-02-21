@@ -1,6 +1,7 @@
 # Multi-Token-Art-for-Foundry-VTT
 
 **MTA (Multi Token Art)** — модуль для Foundry VTT, инструмент для автоматизации и оживления визуала токенов.  
+
 <img width="800" height="811" alt="Foundry_Virtual_Tabletop_2ekwfxIzaS" src="https://github.com/user-attachments/assets/4669ab8f-8270-4e51-a5ae-237b37a879be" />
 
 
