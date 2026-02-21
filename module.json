@@ -3,8 +3,8 @@
   "title": "Multi Token Art",
   "description": "Manage multiple token and portrait images with auto-activation, random mode, and Dynamic Ring integration.",
   "version": "1.0.0",
-  "readme": "https://github.com/Colter1911/Sound-Engine-Master/blob/main/README.md",
-  "license": "https://raw.githubusercontent.com/Colter1911/Sound-Engine-Master/refs/heads/main/LICENSE.md",
+  "readme": "https://github.com/Colter1911/Multi-Token-Art-for-Foundry-VTT/blob/main/README.md",
+  "license": "https://raw.githubusercontent.com/Colter1911/Multi-Token-Art-for-Foundry-VTT/refs/heads/main/LICENSE.md",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351"
@@ -39,6 +39,7 @@
   "socket": true,
   "url": "https://boosty.to/frieddend/posts/66847e79-99e7-4cd7-8668-907ada56e8ed",
   "manifest": "https://raw.githubusercontent.com/Colter1911/Multi-Token-Art-for-Foundry-VTT/refs/heads/main/module.json",
-  "download": ""
+  "download": "https://drive.google.com/uc?export=download&id=12_1I6hykMk6N-brLHvfVMyKD3bAhOPj7"
 
 }
+
