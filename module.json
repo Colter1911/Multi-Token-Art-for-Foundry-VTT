@@ -38,6 +38,7 @@
   ],
   "socket": true,
   "url": "https://boosty.to/frieddend/posts/66847e79-99e7-4cd7-8668-907ada56e8ed",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/Colter1911/Multi-Token-Art-for-Foundry-VTT/refs/heads/main/module.json",
   "download": ""
+
 }
