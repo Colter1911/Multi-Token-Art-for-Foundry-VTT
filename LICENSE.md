@@ -1,10 +1,10 @@
-SEM (Sound Engine Master) - END USER LICENSE AGREEMENT
+MTA (Multi Token Art) - END USER LICENSE AGREEMENT
 
 COPYRIGHT (c) 2026 FriedDenD
 ALL RIGHTS RESERVED.
 
 1. GRANT OF LICENSE
-Subject to the terms and conditions of this Agreement, permission is granted to the individual purchaser ("Licensee") to download, install, and use the "SEM (Sound Engine Master)" software module ("Software") for personal, non-commercial use within the Foundry Virtual Tabletop environment.
+Subject to the terms and conditions of this Agreement, permission is granted to the individual purchaser ("Licensee") to download, install, and use the "MTA (Multi Token Art)" software module ("Software") for personal, non-commercial use within the Foundry Virtual Tabletop environment.
 
 2. RESTRICTIONS
 The Licensee shall NOT:
